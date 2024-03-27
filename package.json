@@ -1,0 +1,30 @@
+{
+  "name": "maximumsubarraydfs",
+  "version": "1.0.0",
+  "description": "This project designed to analyze historical OHLC (Open-High-Low-Close) data of financial markets and predict potential breakout patterns. It utilizes the Maximum Subarray algorithm with Depth-First Search (DFS) to identify periods of significant price movement.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Maximum Subarray",
+    "Depth-First Search",
+    "Financial Markets",
+    "Crypto Prediction"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cdw1p/MaximumSubarrayDFS.git"
+  },
+  "author": "cdw1p",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cdw1p/MaximumSubarrayDFS/issues"
+  },
+  "homepage": "https://github.com/cdw1p/MaximumSubarrayDFS#readme",
+  "dependencies": {
+    "ccxt": "^4.2.85",
+    "maximumsubarraydfs": "^1.0.0"
+  }
+}
